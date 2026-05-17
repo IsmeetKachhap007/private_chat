@@ -20,7 +20,7 @@ A lightning-fast, responsive real-time private chat application. Built with end-
 
 ![Chat List](./public/2nd.png)
 
-![User Settings](./public/3ed.png)
+![User Settings](./public/3rd.png)
 
 ---
 
