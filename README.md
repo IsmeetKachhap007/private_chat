@@ -43,7 +43,7 @@ Ensure you have **Node.js** installed on your machine. You will also need an **U
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone [https://github.com/your-username/private_chat.git](https://github.com/your-username/private_chat.git)
+   git clone [https://github.com/ismeetkachhap007/private_chat.git](https://github.com/ismeetkachhap007/private_chat.git)
    cd private_chat
 
 ```
